@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Desert Job</string>
+    <string name="title_activity_main">Desert Job</string>
+    <string name="package_name">com.desertjob.game</string>
+    <string name="custom_url_scheme">com.desertjob.game</string>
+</resources>
